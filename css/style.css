@@ -821,13 +821,13 @@ body {
   margin: 0px 0px 16px 0px;
 }
 
-.list__item {
+.fifth__text-block .list__item {
   background: url("../img/icons/check.svg") 0 5px no-repeat;
   height: 26px;
   margin: 0px 0px 8px 0px;
 }
 
-.list__item span {
+.fifth__text-block .list__item span {
   padding: 0px 0px 0px 32px;
   line-height: 24px;
 }
