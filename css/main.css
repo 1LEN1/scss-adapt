@@ -200,6 +200,7 @@ body {
 .main__cont {
   max-width: 1110px;
   margin: 0px auto;
+  padding: 0 10px;
 }
 
 /*------------------------------------------------------*/
